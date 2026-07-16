@@ -1,140 +1,166 @@
+<p align="center">
+  <img src="assets/profile.png" width="220" alt="Prateek Dhar Dwivedi"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Prateek Dhar Dwivedi</h1>
 
 <h3 align="center">
-B.Tech Student | Full Stack Developer | AI & Machine Learning Enthusiast
+Full Stack Developer • AI & Machine Learning Enthusiast • B.Tech Student
 </h3>
 
 <p align="center">
-Passionate about building intelligent applications, modern web platforms, and solving real-world problems through technology.
+  Passionate about building intelligent systems, modern web applications,
+  and solving real-world challenges through technology.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prateek-Dhar-Dwivedi">
+    <img src="https://img.shields.io/badge/GitHub-Prateek_Dhar_Dwivedi-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://www.linkedin.com/in/prateek-dhar-dwivedi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prateek_Dhar_Dwivedi-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://prateek-dhar-dwivedi.github.io/-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech Student
 
 💻 Full Stack Developer specializing in MERN Stack
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+🤖 AI & Machine Learning Enthusiast
 
-🌱 Currently exploring advanced Web Development and AI technologies
+🌐 Passionate about Web Development and Intelligent Applications
 
-🔭 Building projects that combine Software Engineering and Intelligent Systems
+🔭 Building impactful projects in AI, Web Development, and Education Technology
 
-⚡ Passionate about learning, innovation, and creating impactful solutions
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI / ML
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+🌱 Constantly learning new technologies and best practices
 
 ---
 
-## 📂 Featured Projects
+# 🎓 Education
 
-### 🎬 Cineora – Movie Recommendation System
-AI-powered movie recommendation platform built using React, Node.js, Flask, and Machine Learning.
+**Bachelor of Technology (B.Tech)**
 
-🔗 Repository:
-https://github.com/Prateek-Dhar-Dwivedi/Movie_Recommender_System_Cineora_Frontend
+NIELIT Deemed to be University, Ropar
 
----
-
-### 🎓 NIELIT_MERN
-University Management System developed using the MERN Stack to modernize academic and administrative workflows.
-
-🔗 Repository:
-https://github.com/Prateek-Dhar-Dwivedi/NIELIT_MERN
+Specialization: Artificial Intelligence & Machine Learning
 
 ---
 
-### 🎓 NIELIT_PY
-University Management Platform built entirely with Python using Anvil.
+# 💼 Experience
 
-🔗 Repository:
-https://github.com/Prateek-Dhar-Dwivedi/NIELIT_PY
+### Web Development Intern
+
+Worked on modern web technologies and real-world application development.
+
+### Machine Learning Projects
+
+Developed intelligent systems using Python, Flask, Scikit-Learn, and AI techniques.
+
+### Research & Academic Projects
+
+Participated in technical research activities, poster presentations, and project showcases.
 
 ---
 
-### 🔐 Blockchain Certificate Verification System
-A blockchain-powered certificate verification platform using Flask, Web3, and Ethereum technologies.
-
----
-
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 Best Poster Award – NICEDT 2025
 
 🤖 Google Gen AI Study Jam 2025 Participant
 
-🏅 Research & Technical Project Presentations
+🏅 Hackathon & Research Project Participant
 
-🎯 Active Contributor to Academic and Technology Projects
+📚 Active Learner in AI, Machine Learning & Software Development
 
 ---
 
-## 📚 Areas of Interest
+# 🛠️ Tech Stack
 
-- Artificial Intelligence
+### Languages
+
+Python • JavaScript • Java • C++
+
+### Frontend
+
+React.js • HTML5 • CSS3
+
+### Backend
+
+Node.js • Express.js • Flask
+
+### Database
+
+MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • VS Code • Postman
+
+### AI & ML
+
+Scikit-Learn • Pandas • NumPy • Machine Learning
+
+---
+
+# 📂 Featured Projects
+
+## 🎬 Cineora – Movie Recommendation System
+
+AI-powered recommendation platform using:
+
+- React.js
+- Node.js
+- Flask
 - Machine Learning
-- Full Stack Development
-- Cloud Computing
-- Blockchain Technology
-- Software Engineering
+- TMDB Dataset
+- Vercel & Render
+
+## 🎓 NIELIT_MERN
+
+University Management System built using MERN Stack.
+
+## 🎓 NIELIT_PY
+
+University Management Platform developed entirely in Python using Anvil.
 
 ---
 
-## 📈 Current Goals
+# 🌐 Portfolio
 
-- Master Advanced MERN Stack Development
-- Build Production-Ready AI Applications
-- Contribute to Open Source Projects
-- Explore Cloud & DevOps Technologies
+🔗 https://prateek-dhar-dwivedi.github.io/-Portfolio/
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact
 
-🐙 GitHub:
-https://github.com/Prateek-Dhar-Dwivedi
+📧 prateekdhardwivedi4@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/prateek-dhar-dwivedi/
 
-🌐 Portfolio:
-https://prateek-dhar-dwivedi.github.io/-Portfolio/
+🐙 GitHub:
+https://github.com/Prateek-Dhar-Dwivedi
 
-📧 Email:
-prateekdhardwivedi4@gmail.com
+---
+
+# 🎯 Current Goals
+
+✅ Build Production-Ready AI Applications
+
+✅ Master Advanced MERN Stack Development
+
+✅ Contribute to Open Source Projects
+
+✅ Explore Cloud Computing & DevOps
 
 ---
 
@@ -142,6 +168,6 @@ prateekdhardwivedi4@gmail.com
 
 ### ⭐ Thanks for visiting my profile!
 
-Building technology that solves real-world problems 🚀
+Building technology that creates real-world impact 🚀
 
 </div>
