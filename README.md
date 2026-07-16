@@ -110,19 +110,18 @@ Git • GitHub • VS Code • Postman
 Scikit-Learn • Pandas • NumPy • Machine Learning
 
 ---
-<p align="center">
- 📊 GitHub Stats
-</p>
+
+ #📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Dhar-Dwivedi&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prateek-Dhar-Dwivedi&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
+
 ---
+
 # 📂 Featured Projects
 
 ## 🎬 Cineora – Movie Recommendation System
