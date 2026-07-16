@@ -111,7 +111,7 @@ Scikit-Learn • Pandas • NumPy • Machine Learning
 
 ---
 
- #📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
