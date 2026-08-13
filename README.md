@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="assets/profile.png" width="220" alt="Prateek Dhar Dwivedi"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Prateek Dhar Dwivedi</h1>
+ <h1 align="center">Hi 👋, I'm Prateek Dhar Dwivedi</h1>
 
 <h3 align="center">
 Full Stack Developer • AI & Machine Learning Enthusiast • B.Tech Student
