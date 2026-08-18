@@ -18,7 +18,7 @@ Full Stack Developer • AI & Machine Learning Enthusiast • B.Tech Student
     <img src="https://img.shields.io/badge/LinkedIn-Prateek_Dhar_Dwivedi-blue?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="https://prateek-dhar-dwivedi.github.io/-Portfolio/">
+  <a href="https://prateek-dhar-dwivedi.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
   </a>
 </p>
