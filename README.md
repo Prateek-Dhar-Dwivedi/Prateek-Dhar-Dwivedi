@@ -182,7 +182,7 @@ University Management Platform developed entirely in Python using Anvil.
 # 🌐 Portfolio
 
 <p align="center">
-  <a href="https://prateek-dhar-dwivedi.github.io/-Portfolio/">
+  <a href="https://prateek-dhar-dwivedi.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-success?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
