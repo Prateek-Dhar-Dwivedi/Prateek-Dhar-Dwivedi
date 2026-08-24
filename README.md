@@ -170,11 +170,21 @@ Check out my engineering write-ups and technical walkthroughs:
 
 <div align="center">
 
+### 🐍 Contribution Grid Snake
 <br/>
 
-<a href="https://github.com/Prateek-Dhar-Dwivedi">
-  <img src="https://ghchart.rshah.org/2ea44f/Prateek-Dhar-Dwivedi" alt="Prateek's Green Contribution Calendar" width="100%" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prateek-Dhar-Dwivedi/Prateek-Dhar-Dwivedi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prateek-Dhar-Dwivedi/Prateek-Dhar-Dwivedi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Prateek-Dhar-Dwivedi/Prateek-Dhar-Dwivedi/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+### 📈 Activity & Streak Analytics
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Dhar-Dwivedi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
 
 <br/><br/>
 
