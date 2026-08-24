@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Prateek Dhar Dwivedi
+#  Prateek Dhar Dwivedi
 ### Full-Stack Software Engineer • AI & Machine Learner • Tech Writer
 
 <p align="center">
