@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Prateek Dhar Dwivedi
+# Prateek Dhar Dwivedi
 ### Full-Stack Software Engineer • AI & Machine Learner • Tech Writer
 
 <p align="center">
@@ -170,19 +170,15 @@ Check out my engineering write-ups and technical walkthroughs:
 
 <div align="center">
 
-### 🟩 Daily Contribution Heatmap
 <br/>
 
-[![Prateek's GitHub Activity Calendar](https://ghchart.rshah.org/2ea44f/Prateek-Dhar-Dwivedi)](https://github.com/Prateek-Dhar-Dwivedi)
-
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true&stroke=eab308&ring=eab308&fire=eab308&currStreakLabel=eab308" alt="GitHub Streak" />
+<a href="https://github.com/Prateek-Dhar-Dwivedi">
+  <img src="https://ghchart.rshah.org/2ea44f/Prateek-Dhar-Dwivedi" alt="Prateek's Green Contribution Calendar" width="100%" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateek-Dhar-Dwivedi&show_icons=true&theme=tokyonight&hide_border=true&title_color=eab308&icon_color=eab308&text_color=94a3b8&bg_color=0f172a" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateek-Dhar-Dwivedi&layout=compact&theme=tokyonight&hide_border=true&title_color=eab308&text_color=94a3b8&bg_color=0f172a" height="165" alt="Top Languages" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true&stroke=eab308&ring=eab308&fire=eab308&currStreakLabel=eab308" alt="GitHub Streak" />
 
 </div>
 
