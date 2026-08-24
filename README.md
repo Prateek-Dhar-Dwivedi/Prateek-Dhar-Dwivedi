@@ -1,230 +1,200 @@
-<h1 align="center">Hi 👋, I'm Prateek Dhar Dwivedi</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • AI & Machine Learning Enthusiast • B.Tech Student
-</h3>
+# ⚡ Prateek Dhar Dwivedi
+### Full-Stack Software Engineer • AI & Machine Learner • Tech Writer
 
 <p align="center">
-  Passionate about building intelligent systems, modern web applications,
-  and solving real-world challenges through technology.
+  <em>Building intelligent, scalable web applications and solving real-world challenges through AI & Computer Vision.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prateek-Dhar-Dwivedi">
-    <img src="https://img.shields.io/badge/GitHub-Prateek_Dhar_Dwivedi-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://prateek-dhar-dwivedi.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-eab308?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-
   <a href="https://www.linkedin.com/in/prateek-dhar-dwivedi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prateek_Dhar_Dwivedi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-
-  <a href="https://prateek-dhar-dwivedi.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://medium.com/@prateekdhardwivedi">
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium" alt="Medium"/>
   </a>
-</p>
-
----
-
-# 🚀 About Me
-
-🎓 B.Tech Student
-
-💻 Full Stack Developer specializing in MERN Stack
-
-🤖 AI & Machine Learning Enthusiast
-
-🌐 Passionate about Web Development and Intelligent Applications
-
-🔭 Building impactful projects in AI, Web Development, and Education Technology
-
-🌱 Constantly learning new technologies and best practices
-
----
-
-# 🎓 Education
-
-**Bachelor of Technology (B.Tech)**
-
-NIELIT Deemed to be University, Ropar
-
-**Specialization:** Artificial Intelligence & Machine Learning
-
----
-
-# 💼 Experience
-
-### Web Development Intern
-
-Worked on modern web technologies and real-world application development.
-
-### Machine Learning Projects
-
-Developed intelligent systems using Python, Flask, Scikit-Learn, and AI techniques.
-
-### Research & Academic Projects
-
-Participated in technical research activities, poster presentations, and project showcases.
-
----
-
-# 🏆 Achievements
-
-🥇 Best Poster Award – NICEDT 2025
-
-🤖 Google Gen AI Study Jam 2025 Participant
-
-🏅 Hackathon & Research Project Participant
-
-📚 Active Learner in AI, Machine Learning & Software Development
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp" alt="Languages"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-</p>
-
-### AI & Machine Learning
-
-<p>
-  Python • Scikit-Learn • Pandas • NumPy • Machine Learning
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Dhar-Dwivedi&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 🎬 Cineora – Movie Recommendation System
-
-AI-powered movie recommendation platform using:
-
-- React.js
-- Node.js
-- Flask
-- Machine Learning
-- TMDB Dataset
-- Vercel
-- Render
-
----
-
-## 🎓 NIELIT_MERN
-
-University Management System built using the MERN Stack.
-
-**Technologies:**
-
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-
----
-
-## 🎓 NIELIT_PY
-
-University Management Platform developed entirely in Python using Anvil.
-
-**Technologies:**
-
-- Python
-- Anvil
-- Database Integration
-- Web Application Development
-
----
-
-# 🌐 Portfolio
-
-<p align="center">
-  <a href="https://prateek-dhar-dwivedi.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-success?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://github.com/Prateek-Dhar-Dwivedi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/prateekdhardwivedi/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:prateekdhardwivedi4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
+<br/>
 
-# 📫 Contact
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EAB308&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+(MERN);AI+%26+Machine+Learning+Practitioner;Published+Technical+Writer+on+Medium;Building+TruthLens%2C+Cineora+%26+VELORA" alt="Typing SVG" />
 
-📧 **Email:** prateekdhardwivedi4@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/prateek-dhar-dwivedi/
-
-🐙 **GitHub:**  
-https://github.com/Prateek-Dhar-Dwivedi
+</div>
 
 ---
 
-# 🎯 Current Goals
+## 👨‍💻 About Me
 
-- ✅ Build Production-Ready AI Applications
-- ✅ Master Advanced MERN Stack Development
-- ✅ Contribute to Open Source Projects
-- ✅ Explore Cloud Computing & DevOps
+- 🎓 **Undergrad**: B.Tech in Computer Science & Engineering (AI & ML) at **NIELIT Deemed to be University, Ropar** (2024–2028).
+- 🚀 **Full-Stack Craftsmanship**: Developing robust, full-stack web applications with the **MERN Stack** (MongoDB, Express, React, Node.js) and Python microservices (Flask/FastAPI).
+- 🤖 **AI & Intelligent Systems**: Deeply interested in **Machine Learning**, **Computer Vision**, and **NLP**—building deepfake detection systems, recommendation engines, and predictive pipelines.
+- ✍️ **Tech Writing**: Authoring technical breakdowns and architecture case studies on [Medium (@prateekdhardwivedi)](https://medium.com/@prateekdhardwivedi).
+- 🔭 **Current Focus**: Scaling production-ready AI web applications and modern cloud architectures.
+
+---
+
+## 🏆 Honors & Recognition
+
+- 🥇 **Best Poster Award** — *NICEDT 2025* (National Conference on Information & Communication Technologies)
+- 🏆 **Hackathon & Ideathon Winner / Top Finalist** — NIELIT Ropar
+- 🤖 **Google Gen AI Study Jam 2025** — Certified Participant
+- 📜 **Multiple Industry Certifications** in AI/ML, Python, and Full-Stack Engineering
 
 ---
 
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Dhar-Dwivedi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💻 Languages & Core
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css" alt="Languages" />
+  </a>
+</p>
 
-**Building technology that creates real-world impact 🚀**
+### 🌐 Frontend & UI
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" alt="Frontend" />
+  </a>
+</p>
+
+### ⚙️ Backend, Frameworks & DB
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" alt="Backend & Databases" />
+  </a>
+</p>
+
+### 🧠 Machine Learning & Data Science
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" alt="AI & ML" />
+  </a>
+  <br/>
+  <code>NumPy</code> • <code>Pandas</code> • <code>Scikit-Learn</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>Computer Vision</code>
+</p>
+
+### 🧰 DevOps, Cloud & Developer Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" alt="Tools & Cloud" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ TruthLens — AI Deepfake Detection</h3>
+      <p>AI-driven misinformation and media forensics platform that leverages deep learning to detect manipulated video/image content in real-time.</p>
+      <p>
+        <code>React.js</code> <code>Flask</code> <code>Computer Vision</code> <code>PyTorch</code> <code>Vercel</code>
+      </p>
+      <p>
+        <a href="https://github.com/Prateek-Dhar-Dwivedi/TruthLens">📂 GitHub Repo</a> • 
+        <a href="https://truth-lens-lemon.vercel.app/">🔗 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Cineora — AI Movie Recommender</h3>
+      <p>Content-based movie discovery engine combining TF-IDF and cosine similarity algorithms across 5,000+ TMDB movies with interactive frontend.</p>
+      <p>
+        <code>React.js</code> <code>Flask</code> <code>Scikit-Learn</code> <code>TMDB API</code> <code>Render</code>
+      </p>
+      <p>
+        <a href="https://github.com/Prateek-Dhar-Dwivedi/Movie_Recommender_System_Cineora">📂 GitHub Repo</a> • 
+        <a href="https://movie-recommender-system-cineora-fr.vercel.app/">🔗 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👜 VELORA — Modern E-Commerce</h3>
+      <p>High-performance lifestyle e-commerce web application featuring fluid product filtering, responsive cart state, and sleek modern UI design.</p>
+      <p>
+        <code>React.js</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Vercel</code>
+      </p>
+      <p>
+        <a href="https://github.com/Prateek-Dhar-Dwivedi/VELORA">📂 GitHub Repo</a> • 
+        <a href="https://velora-ten-puce.vercel.app/">🔗 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ NIELIT_MERN — Academic Portal</h3>
+      <p>Comprehensive university management system providing role-based student and faculty workflows, secure authentication, and administrative controls.</p>
+      <p>
+        <code>MongoDB</code> <code>Express.js</code> <code>React.js</code> <code>Node.js</code> <code>JWT</code>
+      </p>
+      <p>
+        <a href="https://github.com/Prateek-Dhar-Dwivedi/NIELIT_MERN">📂 GitHub Repo</a> • 
+        <a href="https://nielit-mern-rho.vercel.app/">🔗 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✍️ Latest Articles on Medium
+
+Check out my engineering write-ups and technical walkthroughs:
+- 📖 **[Building My First Personal Portfolio with HTML, CSS & JavaScript](https://medium.com/@prateekdhardwivedi)**
+- 📖 **[From Anvil to MERN: Rebuilding My University Website the Right Way](https://medium.com/@prateekdhardwivedi)**
+- 📖 **[How My First College Project Built with Anvil Became the Foundation of My S.E Journey](https://medium.com/@prateekdhardwivedi)**
+
+👉 *Read all posts at [medium.com/@prateekdhardwivedi](https://medium.com/@prateekdhardwivedi)*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateek-Dhar-Dwivedi&show_icons=true&theme=tokyonight&hide_border=true&title_color=eab308&icon_color=eab308&text_color=94a3b8&bg_color=0f172a" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateek-Dhar-Dwivedi&layout=compact&theme=tokyonight&hide_border=true&title_color=eab308&text_color=94a3b8&bg_color=0f172a" height="165" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true&stroke=eab308&ring=eab308&fire=eab308&currStreakLabel=eab308" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+| :--- | :--- |
+| 🌐 **Interactive Portfolio** | [prateek-dhar-dwivedi.github.io](https://prateek-dhar-dwivedi.github.io/) |
+| 💼 **LinkedIn** | [linkedin.com/in/prateek-dhar-dwivedi](https://linkedin.com/in/prateek-dhar-dwivedi) |
+| ✍️ **Medium** | [medium.com/@prateekdhardwivedi](https://medium.com/@prateekdhardwivedi) |
+| 🐙 **GitHub** | [github.com/Prateek-Dhar-Dwivedi](https://github.com/Prateek-Dhar-Dwivedi) |
+| 📸 **Instagram** | [instagram.com/prateekdhardwivedi](https://www.instagram.com/prateekdhardwivedi/) |
+| 🐦 **Twitter / X** | [twitter.com/prateekdhard](https://twitter.com/prateekdhard) |
+| 📧 **Direct Email** | [prateekdhardwivedi4@gmail.com](mailto:prateekdhardwivedi4@gmail.com) |
+
+<br/>
+
+**⭐ Open to collaborations on innovative AI/ML and Full-Stack projects!**
 
 </div>
