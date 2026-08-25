@@ -168,13 +168,6 @@ Technical breakdowns and software architecture case studies:
 
 ## GitHub Contribution Activity
 
-<div align="center">
-### Activity & Streak Analytics
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Dhar-Dwivedi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true&stroke=eab308&ring=eab308&fire=eab308&currStreakLabel=eab308" alt="GitHub Streak" />
 
