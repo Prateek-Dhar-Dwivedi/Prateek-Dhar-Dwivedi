@@ -166,16 +166,6 @@ Technical breakdowns and software architecture case studies:
 
 ---
 
-## GitHub Contribution Activity
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Prateek-Dhar-Dwivedi&theme=tokyonight&hide_border=true&stroke=eab308&ring=eab308&fire=eab308&currStreakLabel=eab308" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## Connect with Me
 
 <div align="center">
